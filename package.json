@@ -1,9 +1,9 @@
 {
-  "name": "typescript-nextjs-starter",
-  "description": "A TypeScript starter for Next.js that includes all you need to build amazing projects",
+  "name": "movie-hunter",
+  "description": "Movie information for people who loves movie and curious about their movie favourites",
   "version": "1.0.0",
   "private": true,
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
+  "author": "Muhammad Zourdy <hello@zourdyzou.dev> (@zourdyzou)",
   "license": "MIT",
   "keywords": [
     "nextjs",
@@ -34,11 +34,15 @@
   "devDependencies": {
     "@commitlint/cli": "16.1.0",
     "@commitlint/config-conventional": "16.0.0",
+    "@tailwindcss/aspect-ratio": "0.4.0",
+    "@tailwindcss/forms": "0.5.1",
+    "@tailwindcss/typography": "0.5.2",
     "@types/node": "16.11.22",
     "@types/react": "17.0.39",
     "@types/react-dom": "17.0.11",
     "@typescript-eslint/eslint-plugin": "5.10.2",
     "@typescript-eslint/parser": "5.10.2",
+    "autoprefixer": "10.4.7",
     "commitizen": "4.2.4",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.8.0",
@@ -48,7 +52,9 @@
     "eslint-plugin-prettier": "4.0.0",
     "husky": "7.0.4",
     "lint-staged": "12.3.3",
+    "postcss": "8.4.13",
     "prettier": "2.5.1",
+    "tailwindcss": "3.0.24",
     "typescript": "4.5.5"
   },
   "config": {
