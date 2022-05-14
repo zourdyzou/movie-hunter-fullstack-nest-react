@@ -16,7 +16,18 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"],
-      "@/public/*": ["./public/*"]
+      "@/public/*": ["./public/*"],
+      "@/components/*": ["./src/app/components/*"],
+      "@/ui/*": ["./src/app/components/ui/*"],
+      "@/screens/*": ["./src/app/components/screens/*"],
+
+      "@/shared/*": ["./src/app/shared/*"],
+      "@/hooks/*": ["./src/app/hooks/*"],
+      "@/services/*": ["./src/app/services/*"],
+      "@/utils/*": ["./src/app/utils/*"],
+      "@/assets/*": ["./src/app/assets/*"],
+      "@/configs/*": ["./src/app/configs/*"],
+      "@/store/*": ["./src/app/store/*"]
     },
     "incremental": true
   },
