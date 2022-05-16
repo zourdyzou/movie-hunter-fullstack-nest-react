@@ -27,7 +27,7 @@
       "@/utils/*": ["./src/app/utils/*"],
       "@/assets/*": ["./src/app/assets/*"],
       "@/configs/*": ["./src/app/configs/*"],
-      "@/store/*": ["./src/app/store/*"]
+      "@/store/*": ["./src/app/store/*"],
     },
     "incremental": true
   },
