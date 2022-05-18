@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Image from 'next/image';
+
+import Layout from '@/components/Layout/Layout';
 
 export default function Home() {
   return (
@@ -13,7 +14,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className="text-5xl font-bold underline">Hello world!</h1>
+      <Layout>
+        <h1 className="text-5xl font-bold underline">Hello world!</h1>
+      </Layout>
     </div>
   );
 }
