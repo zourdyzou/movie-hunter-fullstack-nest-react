@@ -6,9 +6,10 @@
   "author": "Muhammad Zourdy <hello@zourdyzou.dev> (@zourdyzou)",
   "license": "MIT",
   "keywords": [
-    "nextjs",
-    "starter",
-    "typescript"
+    "Nextjs",
+    "typescript",
+    "Cinema Information",
+    "Nest.js"
   ],
   "scripts": {
     "dev": "next",

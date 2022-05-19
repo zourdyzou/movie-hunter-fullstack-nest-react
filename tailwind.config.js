@@ -1,7 +1,7 @@
-const colors = require('tailwindcss/colors')
-const plugin = require('tailwindcss/plugin')
+const colors = require('tailwindcss/colors');
+const plugin = require('tailwindcss/plugin');
 
-const primary = '#E30B13'
+const primary = '#E30B13';
 
 module.exports = {
   content: [
@@ -130,7 +130,7 @@ module.exports = {
             objectFit: 'cover',
             pointerEvents: 'none',
           },
-        })
+        });
     }),
   ],
-}
+};
