@@ -1,11 +1,13 @@
 <p align="center">
+  
+![design](https://user-images.githubusercontent.com/69587933/177702395-6ada5cda-665d-41a0-9ce3-aa4145658fd8.png)
 
 </p>
 
-<br />
-
 <div align="center"><strong>Non-opinionated best movies and tv-shows information in the entire universe.</strong></div>
 <div align="center">Highly scalable foundation with the best DX. All the tools need were listed in the </div> 
+
+<hr />
 
 <br />
 
