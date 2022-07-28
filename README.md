@@ -4,7 +4,7 @@
 
 </p>
 
-<div align="center"><strong>Non-opinionated best movies and tv-shows information in the entire universe.</strong></div>
+<div align="center"><strong>Best movies and tv-shows information in the entire universe.</strong></div>
 <div align="center">Highly scalable foundation with the best DX. All the tools need were listed in the </div> 
 
 <hr />
@@ -46,12 +46,6 @@ yarn dev
 ```
 
 Open `http://localhost:3000` with your browser to see the result.
-
-## Showcase
-
-```
-comming soon!!!
-```
 
 ## Documentation
 
